@@ -17,13 +17,21 @@
 		4976419318A7A62600BCFFA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4976419118A7A62600BCFFA7 /* Main.storyboard */; };
 		4976419618A7A62600BCFFA7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4976419518A7A62600BCFFA7 /* ViewController.m */; };
 		4976419918A7A62600BCFFA7 /* MyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4976419818A7A62600BCFFA7 /* MyScene.m */; };
-		4976419B18A7A62600BCFFA7 /* Spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = 4976419A18A7A62600BCFFA7 /* Spaceship.png */; };
 		4976419D18A7A62600BCFFA7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4976419C18A7A62600BCFFA7 /* Images.xcassets */; };
 		497641A418A7A62600BCFFA7 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 497641A318A7A62600BCFFA7 /* XCTest.framework */; };
 		497641A518A7A62600BCFFA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4976417D18A7A62600BCFFA7 /* Foundation.framework */; };
 		497641A618A7A62600BCFFA7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4976418118A7A62600BCFFA7 /* UIKit.framework */; };
 		497641AE18A7A62600BCFFA7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 497641AC18A7A62600BCFFA7 /* InfoPlist.strings */; };
 		497641B018A7A62600BCFFA7 /* SKSpriteNodeConTexturesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 497641AF18A7A62600BCFFA7 /* SKSpriteNodeConTexturesTests.m */; };
+		49CD465E18A7AA8200977ABC /* vegeta1.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD465D18A7AA8200977ABC /* vegeta1.png */; };
+		49CD466718A7AA9300977ABC /* vegeta2.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD465F18A7AA9300977ABC /* vegeta2.png */; };
+		49CD466818A7AA9300977ABC /* vegeta3.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466018A7AA9300977ABC /* vegeta3.png */; };
+		49CD466918A7AA9300977ABC /* vegeta4.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466118A7AA9300977ABC /* vegeta4.png */; };
+		49CD466A18A7AA9300977ABC /* vegeta5.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466218A7AA9300977ABC /* vegeta5.png */; };
+		49CD466B18A7AA9300977ABC /* vegeta6.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466318A7AA9300977ABC /* vegeta6.png */; };
+		49CD466C18A7AA9300977ABC /* vegeta7.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466418A7AA9300977ABC /* vegeta7.png */; };
+		49CD466D18A7AA9300977ABC /* vegeta8.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466518A7AA9300977ABC /* vegeta8.png */; };
+		49CD466E18A7AA9300977ABC /* vegeta9.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CD466618A7AA9300977ABC /* vegeta9.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,13 +61,21 @@
 		4976419518A7A62600BCFFA7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4976419718A7A62600BCFFA7 /* MyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyScene.h; sourceTree = "<group>"; };
 		4976419818A7A62600BCFFA7 /* MyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
-		4976419A18A7A62600BCFFA7 /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		4976419C18A7A62600BCFFA7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		497641A218A7A62600BCFFA7 /* SKSpriteNodeConTexturesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SKSpriteNodeConTexturesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		497641A318A7A62600BCFFA7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		497641AB18A7A62600BCFFA7 /* SKSpriteNodeConTexturesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SKSpriteNodeConTexturesTests-Info.plist"; sourceTree = "<group>"; };
 		497641AD18A7A62600BCFFA7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		497641AF18A7A62600BCFFA7 /* SKSpriteNodeConTexturesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SKSpriteNodeConTexturesTests.m; sourceTree = "<group>"; };
+		49CD465D18A7AA8200977ABC /* vegeta1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta1.png; sourceTree = "<group>"; };
+		49CD465F18A7AA9300977ABC /* vegeta2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta2.png; sourceTree = "<group>"; };
+		49CD466018A7AA9300977ABC /* vegeta3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta3.png; sourceTree = "<group>"; };
+		49CD466118A7AA9300977ABC /* vegeta4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta4.png; sourceTree = "<group>"; };
+		49CD466218A7AA9300977ABC /* vegeta5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta5.png; sourceTree = "<group>"; };
+		49CD466318A7AA9300977ABC /* vegeta6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta6.png; sourceTree = "<group>"; };
+		49CD466418A7AA9300977ABC /* vegeta7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta7.png; sourceTree = "<group>"; };
+		49CD466518A7AA9300977ABC /* vegeta8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta8.png; sourceTree = "<group>"; };
+		49CD466618A7AA9300977ABC /* vegeta9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta9.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +137,7 @@
 		4976418518A7A62600BCFFA7 /* SKSpriteNodeConTextures */ = {
 			isa = PBXGroup;
 			children = (
+				49CD466F18A7AB2A00977ABC /* Vegeta.atlas */,
 				4976418E18A7A62600BCFFA7 /* AppDelegate.h */,
 				4976418F18A7A62600BCFFA7 /* AppDelegate.m */,
 				4976419118A7A62600BCFFA7 /* Main.storyboard */,
@@ -128,7 +145,6 @@
 				4976419518A7A62600BCFFA7 /* ViewController.m */,
 				4976419718A7A62600BCFFA7 /* MyScene.h */,
 				4976419818A7A62600BCFFA7 /* MyScene.m */,
-				4976419A18A7A62600BCFFA7 /* Spaceship.png */,
 				4976419C18A7A62600BCFFA7 /* Images.xcassets */,
 				4976418618A7A62600BCFFA7 /* Supporting Files */,
 			);
@@ -162,6 +178,22 @@
 				497641AC18A7A62600BCFFA7 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		49CD466F18A7AB2A00977ABC /* Vegeta.atlas */ = {
+			isa = PBXGroup;
+			children = (
+				49CD466118A7AA9300977ABC /* vegeta4.png */,
+				49CD466218A7AA9300977ABC /* vegeta5.png */,
+				49CD466318A7AA9300977ABC /* vegeta6.png */,
+				49CD466418A7AA9300977ABC /* vegeta7.png */,
+				49CD466518A7AA9300977ABC /* vegeta8.png */,
+				49CD466618A7AA9300977ABC /* vegeta9.png */,
+				49CD465D18A7AA8200977ABC /* vegeta1.png */,
+				49CD466018A7AA9300977ABC /* vegeta3.png */,
+				49CD465F18A7AA9300977ABC /* vegeta2.png */,
+			);
+			name = Vegeta.atlas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,9 +272,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49CD466818A7AA9300977ABC /* vegeta3.png in Resources */,
+				49CD466E18A7AA9300977ABC /* vegeta9.png in Resources */,
+				49CD466C18A7AA9300977ABC /* vegeta7.png in Resources */,
+				49CD466A18A7AA9300977ABC /* vegeta5.png in Resources */,
 				4976418A18A7A62600BCFFA7 /* InfoPlist.strings in Resources */,
 				4976419D18A7A62600BCFFA7 /* Images.xcassets in Resources */,
-				4976419B18A7A62600BCFFA7 /* Spaceship.png in Resources */,
+				49CD465E18A7AA8200977ABC /* vegeta1.png in Resources */,
+				49CD466718A7AA9300977ABC /* vegeta2.png in Resources */,
+				49CD466918A7AA9300977ABC /* vegeta4.png in Resources */,
+				49CD466B18A7AA9300977ABC /* vegeta6.png in Resources */,
+				49CD466D18A7AA9300977ABC /* vegeta8.png in Resources */,
 				4976419318A7A62600BCFFA7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -476,6 +516,7 @@
 				497641B518A7A62600BCFFA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		497641B618A7A62600BCFFA7 /* Build configuration list for PBXNativeTarget "SKSpriteNodeConTexturesTests" */ = {
 			isa = XCConfigurationList;
@@ -484,6 +525,7 @@
 				497641B818A7A62600BCFFA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
