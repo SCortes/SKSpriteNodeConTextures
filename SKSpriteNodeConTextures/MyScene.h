@@ -10,4 +10,7 @@
 
 @interface MyScene : SKScene
 
+    @property(weak, nonatomic) SKSpriteNode *sprite;
+
+
 @end
